@@ -1,0 +1,9 @@
+{
+	"function": {
+		"consoletestcfd6801b": {
+			"service": "Lambda",
+			"providerPlugin": "awscloudformation",
+			"build": true
+		}
+	}
+}
