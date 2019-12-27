@@ -8,8 +8,7 @@
             "DeploymentBucketName": "amplify-consoletest-dev-151553-deployment",
             "UnauthRoleName": "amplify-consoletest-dev-151553-unauthRole",
             "StackName": "amplify-consoletest-dev-151553",
-            "StackId": "arn:aws:cloudformation:us-west-2:827149277658:stack/amplify-consoletest-dev-151553/ab3ab2f0-2835-11ea-9cab-06ac44ac494e",
-            "AmplifyAppId": "d2s7qprd6e3h5h"
+            "StackId": "arn:aws:cloudformation:us-west-2:827149277658:stack/amplify-consoletest-dev-151553/ab3ab2f0-2835-11ea-9cab-06ac44ac494e"
         }
     }
 }
